@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ThinKloud</title>
+    <link>https://pavelnikov.github.io/posts/</link>
+    <description>Recent content in Posts on ThinKloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 13:52:23 +0100</lastBuildDate><atom:link href="https://pavelnikov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://pavelnikov.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 15 Nov 2022 13:52:23 +0100</pubDate>
+      
+      <guid>https://pavelnikov.github.io/posts/hello-world/</guid>
+      <description>Hello, world! &amp;lt;\h&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>
