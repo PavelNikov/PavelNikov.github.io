@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://pavelnikov.github.io'
 languageCode = 'en-us'
 title = 'ThinKloud'
 theme = "archie"
